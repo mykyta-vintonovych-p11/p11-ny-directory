@@ -1,0 +1,884 @@
+{
+  "generatedAt": "2026-10-13",
+  "methodology": "Indicative global scale within each sector, filtered for an official New York metro office. Rankings are outreach-oriented and not a financial league table.",
+  "companies": [
+    {
+      "id": "accenture",
+      "category": "software",
+      "rank": 1,
+      "name": "Accenture",
+      "focus": "Technology consulting, cloud, data, AI and custom engineering",
+      "summary": "One of the world’s largest professional services firms, with a major technology and innovation presence at One Manhattan West.",
+      "scaleSignal": "Top-tier global technology services scale; ranked first here by global revenue and delivery footprint.",
+      "office": { "address": "395 9th Avenue, New York, NY 10001", "area": "Hudson Yards", "region": "Manhattan", "type": "Major regional office" },
+      "contact": { "email": null, "phone": "+1 917 452 4400", "form": "https://www.accenture.com/us-en/about/contact-us" },
+      "website": "https://www.accenture.com/",
+      "meetingContext": "Best approached with a specific enterprise transformation, AI, cloud, or ecosystem-partnership angle.",
+      "outreachPriority": "medium",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Accenture office directory", "url": "https://www.accenture.com/us-en/about/locations" },
+        { "label": "Accenture contact page", "url": "https://www.accenture.com/us-en/about/contact-us" }
+      ]
+    },
+    {
+      "id": "tcs",
+      "category": "software",
+      "rank": 2,
+      "name": "Tata Consultancy Services",
+      "focus": "Enterprise software, IT services, cloud and business transformation",
+      "summary": "A global IT services leader whose New York operation supports sales, consulting and enterprise delivery across North America.",
+      "scaleSignal": "Among the world’s largest IT services providers by revenue and headcount.",
+      "office": { "address": "101 Park Avenue, 26th Floor, New York, NY 10178", "area": "Midtown East", "region": "Manhattan", "type": "US corporate office" },
+      "contact": { "email": null, "phone": null, "form": "https://www.tcs.com/contact-us" },
+      "website": "https://www.tcs.com/",
+      "meetingContext": "Lead with a concrete enterprise modernization, fintech, data, or delivery-partnership opportunity.",
+      "outreachPriority": "medium",
+      "status": "partial",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "TCS subsidiary financial statement with New York corporate office", "url": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2018-19/fs/tcs-subsidiary-financials-2018-19.pdf" },
+        { "label": "TCS contact page", "url": "https://www.tcs.com/contact-us" }
+      ]
+    },
+    {
+      "id": "capgemini",
+      "category": "software",
+      "rank": 3,
+      "name": "Capgemini",
+      "focus": "Technology consulting, engineering, cloud and managed services",
+      "summary": "A global transformation and technology partner with a centrally located Manhattan office and broad enterprise capabilities.",
+      "scaleSignal": "Large global consulting and technology group with a substantial North American footprint.",
+      "office": { "address": "79 Fifth Avenue, New York, NY 10003", "area": "Union Square", "region": "Manhattan", "type": "Regional office" },
+      "contact": { "email": null, "phone": "+1 212 314 8300", "form": "https://www.capgemini.com/contact-us/" },
+      "website": "https://www.capgemini.com/",
+      "meetingContext": "A specific technology alliance, transformation project, or vertical-market collaboration will route better than a general introduction.",
+      "outreachPriority": "medium",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Capgemini office locations", "url": "https://www.capgemini.com/about-us/locations/" },
+        { "label": "Capgemini contact page", "url": "https://www.capgemini.com/contact-us/" }
+      ]
+    },
+    {
+      "id": "cognizant",
+      "category": "software",
+      "rank": 4,
+      "name": "Cognizant",
+      "focus": "Digital engineering, AI, cloud, enterprise platforms and operations",
+      "summary": "A major global technology services company with both a Hudson Yards office and global headquarters in nearby Teaneck, New Jersey.",
+      "scaleSignal": "Large public IT services company with deep US enterprise coverage.",
+      "office": { "address": "550 West 34th Street, New York, NY 10001", "area": "Hudson Yards", "region": "Manhattan", "type": "Regional office" },
+      "contact": { "email": "inquiry@cognizant.com", "phone": null, "form": "https://www.cognizant.com/us/en/about-cognizant/contact-us" },
+      "website": "https://www.cognizant.com/",
+      "meetingContext": "Useful for enterprise AI, cloud modernization, engineering capacity, or financial-services technology discussions.",
+      "outreachPriority": "medium",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Cognizant contact and locations", "url": "https://www.cognizant.com/us/en/about-cognizant/contact-us" },
+        { "label": "Cognizant US locations", "url": "https://careers.cognizant.com/us-en/locations/" }
+      ]
+    },
+    {
+      "id": "infosys",
+      "category": "software",
+      "rank": 5,
+      "name": "Infosys",
+      "focus": "Enterprise technology, AI, cloud, consulting and digital transformation",
+      "summary": "A global technology services company with a prominent One World Trade Center office and an enterprise AI center in New York.",
+      "scaleSignal": "One of the largest global IT consulting and services employers.",
+      "office": { "address": "One World Trade Center, 285 Fulton Street, 79th Floor, New York, NY 10007", "area": "Financial District", "region": "Manhattan", "type": "Regional office and AI hub" },
+      "contact": { "email": "askus@infosys.com", "phone": "+1 646 254 3198", "form": "https://www.infosys.com/contact.html" },
+      "website": "https://www.infosys.com/",
+      "meetingContext": "Position the request around AI transformation, enterprise innovation, fintech, or a defined partner ecosystem.",
+      "outreachPriority": "medium",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Infosys Consulting Americas offices", "url": "https://www.infosys.com/contact/country/americas-infosys-consulting.html" },
+        { "label": "Infosys New York AI center announcement", "url": "https://www.infosys.com/newsroom/press-releases/2026/collaboration-drive-innovation-unlock-business-value.html" },
+        { "label": "Infosys public contact email", "url": "https://www.infosys.com/investors/reports-filings/annual-report/annual/documents/2025-26/business-responsibility-and-sustainability-report.pdf" }
+      ]
+    },
+    {
+      "id": "wipro",
+      "category": "software",
+      "rank": 6,
+      "name": "Wipro",
+      "focus": "Technology services, engineering, cloud, data and digital experience",
+      "summary": "A major global technology services provider with a Wipro Digital studio in DUMBO and additional Manhattan and New Jersey offices.",
+      "scaleSignal": "Large global IT services group with extensive enterprise delivery capabilities.",
+      "office": { "address": "77 Sands Street, 11th Floor, Brooklyn, NY 11201", "area": "DUMBO", "region": "Brooklyn", "type": "Wipro Digital studio" },
+      "contact": { "email": null, "phone": null, "form": "https://www.wipro.com/contact-wipro/" },
+      "website": "https://www.wipro.com/",
+      "meetingContext": "The DUMBO location is especially relevant for digital experience, product design, engineering, and innovation partnerships.",
+      "outreachPriority": "high",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Wipro global locations", "url": "https://www.wipro.com/locations/" },
+        { "label": "Wipro contact page", "url": "https://www.wipro.com/contact-wipro/" }
+      ]
+    },
+    {
+      "id": "hcltech",
+      "category": "software",
+      "rank": 7,
+      "name": "HCLTech",
+      "focus": "Digital engineering, cloud, AI, enterprise applications and infrastructure",
+      "summary": "A global technology company with an official Fifth Avenue office and an expanded regional presence in New Jersey.",
+      "scaleSignal": "Large public technology services provider operating across major enterprise sectors.",
+      "office": { "address": "623 Fifth Avenue, 19th Floor, New York, NY 10022", "area": "Midtown East", "region": "Manhattan", "type": "Regional office" },
+      "contact": { "email": null, "phone": null, "form": "https://www.hcltech.com/contact-us" },
+      "website": "https://www.hcltech.com/",
+      "meetingContext": "Lead with an enterprise engineering, AI, cloud, or joint go-to-market opportunity.",
+      "outreachPriority": "medium",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "HCLTech United States offices", "url": "https://www.hcltech.com/en-us/geo-presence/united-states" },
+        { "label": "HCLTech contact page", "url": "https://www.hcltech.com/contact-us" }
+      ]
+    },
+    {
+      "id": "epam",
+      "category": "software",
+      "rank": 8,
+      "name": "EPAM Systems",
+      "focus": "Software engineering, digital platforms, product development and consulting",
+      "summary": "A software-engineering-led global services company with a client-facing Manhattan office near Chelsea.",
+      "scaleSignal": "One of the largest engineering-first digital services firms by global workforce and revenue.",
+      "office": { "address": "275 Seventh Avenue, 20th Floor, Suite 2002, New York, NY 10001", "area": "Chelsea", "region": "Manhattan", "type": "Regional office" },
+      "contact": { "email": null, "phone": "+1 267 759 9000", "form": "https://www.epam.com/about/who-we-are/contact" },
+      "website": "https://www.epam.com/",
+      "meetingContext": "Strong fit for product engineering, platform modernization, AI-enabled delivery, and design-to-build partnerships.",
+      "outreachPriority": "high",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "EPAM contact and office directory", "url": "https://www.epam.com/about/who-we-are/contact" }
+      ]
+    },
+    {
+      "id": "globant",
+      "category": "software",
+      "rank": 9,
+      "name": "Globant",
+      "focus": "Digital product engineering, AI, design and experience transformation",
+      "summary": "A global digital engineering company that combines software, design and creative capabilities from its Flatiron-area office.",
+      "scaleSignal": "Large public digital engineering specialist with a multinational delivery network.",
+      "office": { "address": "251 Park Avenue South, 11th Floor, New York, NY 10010", "area": "Flatiron", "region": "Manhattan", "type": "Regional office" },
+      "contact": { "email": "hi@globant.com", "phone": "+1 786 841 1898", "form": "https://www.globant.com/contact" },
+      "website": "https://www.globant.com/",
+      "meetingContext": "Relevant for AI-enabled products, digital experience, media, gaming, fintech, or collaborative innovation.",
+      "outreachPriority": "high",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Globant offices", "url": "https://www.globant.com/contact/offices" },
+        { "label": "Globant contact page", "url": "https://www.globant.com/contact" }
+      ]
+    },
+    {
+      "id": "publicis-sapient",
+      "category": "software",
+      "rank": 10,
+      "name": "Publicis Sapient",
+      "focus": "Digital business transformation, product engineering, data and AI",
+      "summary": "A scaled digital transformation firm combining strategy, product, experience and engineering at Publicis Groupe’s Hudson Street campus.",
+      "scaleSignal": "A 16,000-plus-person global digital transformation organization within Publicis Groupe.",
+      "office": { "address": "375 Hudson Street, New York, NY 10014", "area": "Hudson Square", "region": "Manhattan", "type": "Major regional office" },
+      "contact": { "email": null, "phone": "+1 212 798 6600", "form": "https://www.publicissapient.com/contact" },
+      "website": "https://www.publicissapient.com/",
+      "meetingContext": "Best for customer experience, digital commerce, data, AI, and enterprise product transformation conversations.",
+      "outreachPriority": "high",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Publicis Sapient office locations", "url": "https://www.publicissapient.com/company/locations" },
+        { "label": "Publicis Sapient contact page", "url": "https://www.publicissapient.com/contact" }
+      ]
+    },
+    {
+      "id": "slalom",
+      "category": "software",
+      "rank": 11,
+      "name": "Slalom",
+      "focus": "Business and technology consulting, cloud, data and digital products",
+      "summary": "A consulting firm known for local-market teams and close client collaboration, with a New York hub at One World Trade Center.",
+      "scaleSignal": "Large privately held consulting firm with a broad North American local-office model.",
+      "office": { "address": "One World Trade Center, 285 Fulton Street, 61st Floor, Suite M, New York, NY 10007", "area": "Financial District", "region": "Manhattan", "type": "Local market office" },
+      "contact": { "email": null, "phone": null, "form": "https://www.slalom.com/us/en/who-we-are/locations/new-york" },
+      "website": "https://www.slalom.com/",
+      "meetingContext": "Local leadership and partnership culture make this a strong target for a specific New York client or ecosystem collaboration.",
+      "outreachPriority": "high",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Slalom New York office", "url": "https://www.slalom.com/us/en/who-we-are/locations/new-york" }
+      ]
+    },
+    {
+      "id": "thoughtworks",
+      "category": "software",
+      "rank": 12,
+      "name": "Thoughtworks",
+      "focus": "Custom software, product thinking, data, AI and technology strategy",
+      "summary": "A well-known software consultancy with an engineering-led culture and a central Madison Avenue office.",
+      "scaleSignal": "Global software consultancy with a multi-country delivery footprint and strong technical brand.",
+      "office": { "address": "99 Madison Avenue, 12th Floor, New York, NY 10016", "area": "NoMad", "region": "Manhattan", "type": "City hub" },
+      "contact": { "email": "contact-us@thoughtworks.com", "phone": null, "form": "https://www.thoughtworks.com/en-us/contact-us" },
+      "website": "https://www.thoughtworks.com/",
+      "meetingContext": "Good fit for technical strategy, platform modernization, product engineering, data platforms, or responsible AI.",
+      "outreachPriority": "high",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Thoughtworks office directory", "url": "https://www.thoughtworks.com/contact-us/office-locations" },
+        { "label": "Thoughtworks US contact page", "url": "https://www.thoughtworks.com/en-us/contact-us" }
+      ]
+    },
+    {
+      "id": "endava",
+      "category": "software",
+      "rank": 13,
+      "name": "Endava",
+      "focus": "Digital transformation, software engineering, payments and financial technology",
+      "summary": "A global engineering and technology services firm with a registered and operating presence on Third Avenue.",
+      "scaleSignal": "Public global digital services firm with distributed engineering delivery centers.",
+      "office": { "address": "757 Third Avenue, Suite 1900, New York, NY 10017", "area": "Midtown East", "region": "Manhattan", "type": "US office" },
+      "contact": { "email": null, "phone": "+1 212 920 7240", "form": "https://www.endava.com/contact" },
+      "website": "https://www.endava.com/",
+      "meetingContext": "Particularly relevant for payments, fintech, insurance, mobility, media, or outsourced product-engineering needs.",
+      "outreachPriority": "high",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Endava legal entities and New York address", "url": "https://www.endava.com/terms-and-conditions" },
+        { "label": "Endava contact page", "url": "https://www.endava.com/contact" }
+      ]
+    },
+    {
+      "id": "nagarro",
+      "category": "software",
+      "rank": 14,
+      "name": "Nagarro",
+      "focus": "Digital product engineering, enterprise platforms, data and intelligent automation",
+      "summary": "A global digital engineering company with offices on both Broadway in Manhattan and Exchange Place in Jersey City.",
+      "scaleSignal": "Scaled international engineering specialist with more than 50 offices and broad enterprise capabilities.",
+      "office": { "address": "10 Exchange Place, Suite 1730, Jersey City, NJ 07302", "area": "Exchange Place", "region": "New Jersey", "type": "Regional office" },
+      "contact": { "email": "info.us@nagarro.com", "phone": "+1 332 291 9416", "form": "https://www.nagarro.com/en/contact-us" },
+      "website": "https://www.nagarro.com/",
+      "meetingContext": "A practical New Jersey target for product engineering, enterprise applications, data, AI, or delivery partnerships.",
+      "outreachPriority": "high",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Nagarro contact and Americas offices", "url": "https://www.nagarro.com/en/contact-us" }
+      ]
+    },
+    {
+      "id": "dataart",
+      "category": "software",
+      "rank": 15,
+      "name": "DataArt",
+      "focus": "Custom software engineering, data, AI and industry platforms",
+      "summary": "A New York-founded global software engineering firm with its headquarters on Park Avenue South and a direct public office email.",
+      "scaleSignal": "More than 5,000 professionals across 30-plus locations, with a strong custom-engineering focus.",
+      "office": { "address": "475 Park Avenue South, 15th Floor, New York, NY 10016", "area": "NoMad", "region": "Manhattan", "type": "Global headquarters" },
+      "contact": { "email": "new-york@dataart.com", "phone": "+1 212 378 4108", "form": "https://www.dataart.com/contact-us/new-york" },
+      "website": "https://www.dataart.com/",
+      "meetingContext": "One of the most actionable software targets: direct office contact and strong fit for partnerships in finance, media, travel and healthcare.",
+      "outreachPriority": "high",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "DataArt New York office", "url": "https://www.dataart.com/contact-us/new-york" },
+        { "label": "DataArt company overview", "url": "https://www.dataart.com/company/about-us" }
+      ]
+    },
+
+    {
+      "id": "ogilvy",
+      "category": "agency",
+      "rank": 1,
+      "name": "Ogilvy",
+      "focus": "Advertising, brand strategy, experience, PR and relationship design",
+      "summary": "One of the world’s best-known agency networks, operating from WPP’s Three World Trade Center campus in New York.",
+      "scaleSignal": "Flagship global WPP agency network with broad creative, brand, PR and experience capabilities.",
+      "office": { "address": "3 World Trade Center, 175 Greenwich Street, New York, NY 10007", "area": "Financial District", "region": "Manhattan", "type": "Major network office" },
+      "contact": { "email": null, "phone": "+1 212 237 4000", "form": "https://www.ogilvy.com/contact" },
+      "website": "https://www.ogilvy.com/",
+      "meetingContext": "Use a sharp brand, communications, growth, or partnership brief; the contact page routes by office.",
+      "outreachPriority": "medium",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Ogilvy global contact directory", "url": "https://www.ogilvy.com/contact" }
+      ]
+    },
+    {
+      "id": "bbdo",
+      "category": "agency",
+      "rank": 2,
+      "name": "BBDO",
+      "focus": "Global advertising, creative strategy and integrated campaigns",
+      "summary": "A flagship Omnicom creative network with longstanding New York headquarters on Sixth Avenue.",
+      "scaleSignal": "One of the largest global creative agency networks by footprint and major-client roster.",
+      "office": { "address": "1285 Avenue of the Americas, New York, NY 10019", "area": "Midtown", "region": "Manhattan", "type": "Worldwide headquarters" },
+      "contact": { "email": null, "phone": null, "form": "https://bbdo.com/locations" },
+      "website": "https://bbdo.com/",
+      "meetingContext": "A concise creative or strategic partnership proposition is more likely to route than a broad introductory note.",
+      "outreachPriority": "medium",
+      "status": "partial",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "BBDO locations and contact form", "url": "https://bbdo.com/locations" },
+        { "label": "BBDO official privacy notice with New York address", "url": "https://bbdo.com/wp-content/uploads/2024/12/BBDO-Online-Privacy-Notice-1.pdf" }
+      ]
+    },
+    {
+      "id": "mccann",
+      "category": "agency",
+      "rank": 3,
+      "name": "McCann New York",
+      "focus": "Integrated advertising, brand strategy and global creative campaigns",
+      "summary": "The New York flagship of McCann Worldgroup, with a direct general office email and a major Midtown presence.",
+      "scaleSignal": "Large global network agency and core Interpublic brand.",
+      "office": { "address": "622 Third Avenue, New York, NY 10017", "area": "Midtown East", "region": "Manhattan", "type": "Flagship office" },
+      "contact": { "email": "hello.newyork@mccann.com", "phone": "+1 646 865 2000", "form": "https://mccann.com/offices/" },
+      "website": "https://mccann.com/",
+      "meetingContext": "Direct office inbox makes this actionable for a concise brand, creative, production, or partnership proposal.",
+      "outreachPriority": "high",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "McCann official office directory", "url": "https://mccann.com/offices/" }
+      ]
+    },
+    {
+      "id": "vml",
+      "category": "agency",
+      "rank": 4,
+      "name": "VML",
+      "focus": "Brand experience, customer experience, commerce and creative technology",
+      "summary": "A large WPP creative company formed at global scale, with two floors at Three World Trade Center.",
+      "scaleSignal": "A 26,000-person global network spanning creative, experience, commerce and technology.",
+      "office": { "address": "3 World Trade Center, 175 Greenwich Street, Floors 32–33, New York, NY 10007", "area": "Financial District", "region": "Manhattan", "type": "Major regional office" },
+      "contact": { "email": null, "phone": "+1 212 210 7000", "form": "https://www.vml.com/new-york" },
+      "website": "https://www.vml.com/",
+      "meetingContext": "Strong fit for brand experience, commerce, customer journey, creative technology and AI-enabled marketing.",
+      "outreachPriority": "medium",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "VML New York office", "url": "https://www.vml.com/new-york" }
+      ]
+    },
+    {
+      "id": "dentsu",
+      "category": "agency",
+      "rank": 5,
+      "name": "Dentsu US",
+      "focus": "Media, creative, customer experience, data and integrated marketing",
+      "summary": "The US headquarters of the global dentsu network, with a published North American new-business email.",
+      "scaleSignal": "One of the world’s largest advertising and media groups by revenue and workforce.",
+      "office": { "address": "150 East 42nd Street, New York, NY 10017", "area": "Midtown East", "region": "Manhattan", "type": "US headquarters" },
+      "contact": { "email": "newbusiness.na@dentsu.com", "phone": null, "form": "https://www.dentsu.com/us/en/contact-us" },
+      "website": "https://www.dentsu.com/us/en",
+      "meetingContext": "A particularly useful target for media, CX, data, creative, or North American new-business collaboration.",
+      "outreachPriority": "high",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Dentsu US contact and new business", "url": "https://www.dentsu.com/us/en/contact-us" }
+      ]
+    },
+    {
+      "id": "publicis-new-york",
+      "category": "agency",
+      "rank": 6,
+      "name": "Publicis New York / Le Truc",
+      "focus": "Integrated creative, brand, production and connected marketing",
+      "summary": "Publicis Groupe’s flagship Hudson Street creative campus, bringing together multiple New York agency capabilities through Le Truc.",
+      "scaleSignal": "Backed by one of the world’s largest communications groups and a 600-plus-person New York creative hub.",
+      "office": { "address": "375 Hudson Street, New York, NY 10014", "area": "Hudson Square", "region": "Manhattan", "type": "Flagship creative campus" },
+      "contact": { "email": null, "phone": null, "form": "https://www.publicisgroupe.com/en/contact" },
+      "website": "https://www.publicisgroupe.com/",
+      "meetingContext": "Relevant for integrated creative work, production, brand transformation or cross-agency partnership opportunities.",
+      "outreachPriority": "medium",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Publicis Groupe announcement of the Hudson Street creative hub", "url": "https://www.publicisgroupe.com/en/news/press-releases/publicis-groupe-launches-le-truc-in-new-york" }
+      ]
+    },
+    {
+      "id": "grey",
+      "category": "agency",
+      "rank": 7,
+      "name": "Grey New York",
+      "focus": "Global advertising, brand strategy and integrated creative work",
+      "summary": "The New York flagship of the Grey global network, located on the 31st floor of Three World Trade Center.",
+      "scaleSignal": "Large global WPP creative network with a major-client portfolio.",
+      "office": { "address": "3 World Trade Center, 175 Greenwich Street, 31st Floor, New York, NY 10007", "area": "Financial District", "region": "Manhattan", "type": "Flagship office" },
+      "contact": { "email": null, "phone": "+1 212 546 2000", "form": "https://www.grey.com/locations/new-york" },
+      "website": "https://www.grey.com/",
+      "meetingContext": "The official New York page separates new-business and media routes; lead with a clear creative or brand-growth need.",
+      "outreachPriority": "medium",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Grey New York office", "url": "https://www.grey.com/locations/new-york" }
+      ]
+    },
+    {
+      "id": "fcb",
+      "category": "agency",
+      "rank": 8,
+      "name": "FCB New York",
+      "focus": "Advertising, integrated creative campaigns and brand behavior",
+      "summary": "The New York base of a large global Interpublic creative network, located beside Penn Station.",
+      "scaleSignal": "Major global creative agency network within Interpublic Group.",
+      "office": { "address": "100 West 33rd Street, New York, NY 10001", "area": "Herald Square", "region": "Manhattan", "type": "Worldwide office" },
+      "contact": { "email": null, "phone": null, "form": "https://www.fcb.com/" },
+      "website": "https://www.fcb.com/",
+      "meetingContext": "Best approached with a concrete creative, brand activation, healthcare, or behavior-change brief.",
+      "outreachPriority": "medium",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "FCB official privacy notice with New York office", "url": "https://www.fcb.com/media/4xcilew3/fcbcom-privacy-policy.pdf" }
+      ]
+    },
+    {
+      "id": "rga",
+      "category": "agency",
+      "rank": 9,
+      "name": "R/GA",
+      "focus": "Brand transformation, digital products, AI, design and ventures",
+      "summary": "A New York-headquartered creative innovation company combining brand, design and technology at Dock 72 in Brooklyn Navy Yard.",
+      "scaleSignal": "International creative and technology network with a 40-plus-year innovation track record.",
+      "office": { "address": "1 Dock 72 Way, Brooklyn, NY 11205", "area": "Brooklyn Navy Yard", "region": "Brooklyn", "type": "Global headquarters" },
+      "contact": { "email": null, "phone": "+1 212 946 4000", "form": "https://www.rga.com/contact" },
+      "website": "https://www.rga.com/",
+      "meetingContext": "A high-value Brooklyn target for brand, digital product, AI, customer experience, or venture-studio collaboration.",
+      "outreachPriority": "high",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "R/GA official privacy notice with headquarters address", "url": "https://www.rga.com/privacy-notice" },
+        { "label": "R/GA company overview", "url": "https://www.rga.com/about" }
+      ]
+    },
+    {
+      "id": "droga5",
+      "category": "agency",
+      "rank": 10,
+      "name": "Droga5",
+      "focus": "Creative advertising, brand strategy, design and culture-led campaigns",
+      "summary": "An acclaimed Accenture Song creative agency with a large Wall Street office and strong New York identity.",
+      "scaleSignal": "Globally recognized creative agency backed by Accenture’s broader marketing and technology platform.",
+      "office": { "address": "120 Wall Street, 11th Floor, New York, NY 10005", "area": "Financial District", "region": "Manhattan", "type": "New York office" },
+      "contact": { "email": null, "phone": null, "form": "https://droga5.com/" },
+      "website": "https://droga5.com/",
+      "meetingContext": "Approach with a distinctive creative, production, cultural, or Accenture Song partnership idea—not a generic capabilities pitch.",
+      "outreachPriority": "medium",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Droga5 official New York program page with office address", "url": "https://droga5.com/d5in10/" }
+      ]
+    },
+    {
+      "id": "huge",
+      "category": "agency",
+      "rank": 11,
+      "name": "Huge",
+      "focus": "Brand, marketing, digital products, platforms and AI-native experiences",
+      "summary": "A design and technology company headquartered in New York, with a direct public new-business email.",
+      "scaleSignal": "Large international digital experience agency serving global brands across strategy, design and technology.",
+      "office": { "address": "53 West 23rd Street, New York, NY 10010", "area": "Flatiron", "region": "Manhattan", "type": "Global headquarters" },
+      "contact": { "email": "business@hugeinc.com", "phone": "+1 718 625 4843", "form": "https://www.hugeinc.com/contact" },
+      "website": "https://www.hugeinc.com/",
+      "meetingContext": "Highly actionable for digital product, brand systems, commerce, AI experience, or design-and-build collaboration.",
+      "outreachPriority": "high",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Huge official contact page", "url": "https://www.hugeinc.com/contact" }
+      ]
+    },
+    {
+      "id": "interbrand",
+      "category": "agency",
+      "rank": 12,
+      "name": "Interbrand New York",
+      "focus": "Brand strategy, valuation, identity, experience and portfolio architecture",
+      "summary": "A global brand consultancy with a direct New York inbox and offices in the same Third Avenue building as several major agency groups.",
+      "scaleSignal": "Established global branding network known for brand valuation and Best Global Brands.",
+      "office": { "address": "622 Third Avenue, 3rd Floor, New York, NY 10017", "area": "Midtown East", "region": "Manhattan", "type": "Regional hub" },
+      "contact": { "email": "newyork@interbrand.com", "phone": "+1 212 798 7500", "form": "https://interbrand.com/contact/" },
+      "website": "https://interbrand.com/",
+      "meetingContext": "A direct and relevant target for brand strategy, naming, architecture, valuation, or identity programs.",
+      "outreachPriority": "high",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Interbrand official contact page", "url": "https://interbrand.com/contact/" }
+      ]
+    },
+    {
+      "id": "landor",
+      "category": "agency",
+      "rank": 13,
+      "name": "Landor",
+      "focus": "Brand strategy, design, experience, sonic branding and transformation",
+      "summary": "A large global brand consultancy operating from WPP’s Three World Trade Center campus.",
+      "scaleSignal": "Approximately 1,300 people across 30 locations, with global brand transformation capabilities.",
+      "office": { "address": "175 Greenwich Street, New York, NY 10007", "area": "Financial District", "region": "Manhattan", "type": "New York studio" },
+      "contact": { "email": null, "phone": null, "form": "https://landor.com/en/contact-us/" },
+      "website": "https://landor.com/",
+      "meetingContext": "Relevant for brand transformation, corporate identity, naming, customer experience, or cross-market rollout work.",
+      "outreachPriority": "high",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Landor official contact and studio directory", "url": "https://landor.com/en/contact-us/" }
+      ]
+    },
+    {
+      "id": "siegel-gale",
+      "category": "agency",
+      "rank": 14,
+      "name": "Siegel+Gale",
+      "focus": "Brand strategy, naming, identity, experience and organizational change",
+      "summary": "An Omnicom-owned global brand experience firm headquartered in New York and known for its simplicity positioning.",
+      "scaleSignal": "Established global brand consultancy with seven major international offices.",
+      "office": { "address": "622 Third Avenue, 26th Floor, New York, NY 10017", "area": "Midtown East", "region": "Manhattan", "type": "Global headquarters" },
+      "contact": { "email": null, "phone": "+1 212 453 0400", "form": "https://www.siegelgale.com/contact/" },
+      "website": "https://www.siegelgale.com/",
+      "meetingContext": "Strong target for naming, brand architecture, identity, employer brand, or complex corporate simplification.",
+      "outreachPriority": "high",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Siegel+Gale official contact page", "url": "https://www.siegelgale.com/contact/" }
+      ]
+    },
+    {
+      "id": "pentagram",
+      "category": "agency",
+      "rank": 15,
+      "name": "Pentagram New York",
+      "focus": "Brand identity, graphic design, digital, environments and product design",
+      "summary": "A partner-owned global design consultancy with a direct New York new-business inbox and a renowned Flatiron studio.",
+      "scaleSignal": "The world’s largest independent design consultancy by partner network and international reputation.",
+      "office": { "address": "250 Park Avenue South, New York, NY 10003", "area": "Flatiron / Union Square", "region": "Manhattan", "type": "New York studio" },
+      "contact": { "email": "newyork@pentagram.com", "phone": "+1 212 683 7000", "form": "https://www.pentagram.com/contact" },
+      "website": "https://www.pentagram.com/",
+      "meetingContext": "Highly actionable for a focused identity, editorial, digital, environmental, or product-design conversation.",
+      "outreachPriority": "high",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Pentagram official contact page", "url": "https://www.pentagram.com/contact" }
+      ]
+    },
+
+    {
+      "id": "blackstone",
+      "category": "pe",
+      "rank": 1,
+      "name": "Blackstone",
+      "focus": "Private equity, real estate, credit, infrastructure and alternatives",
+      "summary": "The world-scale alternative asset manager is headquartered on Park Avenue, with multiple New York business lines nearby.",
+      "scaleSignal": "Top-tier global alternative asset manager; ranked first here by total platform scale.",
+      "office": { "address": "345 Park Avenue, New York, NY 10154", "area": "Midtown East", "region": "Manhattan", "type": "Global headquarters" },
+      "contact": { "email": null, "phone": "+1 212 583 5000", "form": "https://www.blackstone.com/contact-us/" },
+      "website": "https://www.blackstone.com/",
+      "meetingContext": "Cold outreach is difficult; use a specific portfolio, operating, technology, founder, or institutional relationship angle.",
+      "outreachPriority": "low",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Blackstone official office directory", "url": "https://www.blackstone.com/the-firm/our-offices/" }
+      ]
+    },
+    {
+      "id": "kkr",
+      "category": "pe",
+      "rank": 2,
+      "name": "KKR",
+      "focus": "Private equity, credit, infrastructure, real estate and capital markets",
+      "summary": "A global investment firm headquartered at 30 Hudson Yards, with clearly separated general, investor and media contact routes.",
+      "scaleSignal": "One of the largest global private markets platforms by assets and capital raised.",
+      "office": { "address": "30 Hudson Yards, New York, NY 10001", "area": "Hudson Yards", "region": "Manhattan", "type": "Global headquarters" },
+      "contact": { "email": null, "phone": "+1 212 750 8300", "form": "https://www.kkr.com/contact" },
+      "website": "https://www.kkr.com/",
+      "meetingContext": "Use the general route for office visits; a warm introduction or precise portfolio/operating angle will materially improve odds.",
+      "outreachPriority": "low",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "KKR official contact page", "url": "https://www.kkr.com/contact" },
+        { "label": "KKR global locations", "url": "https://www.kkr.com/locations" }
+      ]
+    },
+    {
+      "id": "apollo",
+      "category": "pe",
+      "rank": 3,
+      "name": "Apollo Global Management",
+      "focus": "Private equity, credit, retirement services and real assets",
+      "summary": "A global alternatives platform headquartered at 9 West 57th Street with another major office at 590 Madison Avenue.",
+      "scaleSignal": "Top-tier global alternative asset manager with a particularly large credit and retirement platform.",
+      "office": { "address": "9 West 57th Street, 41st Floor, New York, NY 10019", "area": "Midtown", "region": "Manhattan", "type": "Global headquarters" },
+      "contact": { "email": null, "phone": "+1 212 515 3200", "form": "https://www.apollo.com/contact-us" },
+      "website": "https://www.apollo.com/",
+      "meetingContext": "The published email is for private investment product questions; for partnerships, use a precise institutional or portfolio-company angle.",
+      "outreachPriority": "low",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Apollo official locations", "url": "https://www.apollo.com/institutional/aboutus/our-locations" },
+        { "label": "Apollo investor contacts", "url": "https://ir.apollo.com/contacts" }
+      ]
+    },
+    {
+      "id": "carlyle",
+      "category": "pe",
+      "rank": 4,
+      "name": "The Carlyle Group",
+      "focus": "Private equity, global credit and investment solutions",
+      "summary": "A major global private markets firm with a substantial New York team at One Vanderbilt and an additional Madison Avenue office.",
+      "scaleSignal": "Large listed global alternative asset manager operating across buyout, growth, credit and solutions.",
+      "office": { "address": "One Vanderbilt Avenue, Suite 3400, New York, NY 10017", "area": "Midtown East", "region": "Manhattan", "type": "Major regional office" },
+      "contact": { "email": null, "phone": "+1 212 813 4900", "form": "https://www.carlyle.com/connect-us" },
+      "website": "https://www.carlyle.com/",
+      "meetingContext": "The official form accepts business inquiries; specify sector, investment stage, geography and the exact reason to meet.",
+      "outreachPriority": "low",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Carlyle official office directory and contact form", "url": "https://www.carlyle.com/connect-us" }
+      ]
+    },
+    {
+      "id": "ares",
+      "category": "pe",
+      "rank": 5,
+      "name": "Ares Management",
+      "focus": "Credit, private equity, real estate and infrastructure",
+      "summary": "A large global alternatives manager with its New York office on the 44th floor of 245 Park Avenue.",
+      "scaleSignal": "One of the largest listed alternative asset managers, with a leading global credit platform.",
+      "office": { "address": "245 Park Avenue, 44th Floor, New York, NY 10167", "area": "Midtown East", "region": "Manhattan", "type": "Major regional office" },
+      "contact": { "email": null, "phone": "+1 212 710 2100", "form": "https://www.ares.com/contact" },
+      "website": "https://www.ares.com/",
+      "meetingContext": "Best approached through a precise credit, portfolio, real-estate, infrastructure, or institutional relationship topic.",
+      "outreachPriority": "low",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Ares official contact and locations", "url": "https://www.ares.com/contact" }
+      ]
+    },
+    {
+      "id": "tpg",
+      "category": "pe",
+      "rank": 6,
+      "name": "TPG",
+      "focus": "Private equity, growth, impact, real estate and credit",
+      "summary": "A large global alternative asset manager with a major New York office on Seventh Avenue and a second credit office on Park Avenue.",
+      "scaleSignal": "Large global private markets platform with buyout, growth, impact and credit strategies.",
+      "office": { "address": "888 Seventh Avenue, 35th Floor, New York, NY 10106", "area": "Midtown", "region": "Manhattan", "type": "Major regional office" },
+      "contact": { "email": null, "phone": "+1 212 601 4700", "form": "https://www.tpg.com/contact-us" },
+      "website": "https://www.tpg.com/",
+      "meetingContext": "Identify the relevant strategy—capital, growth, impact, healthcare or portfolio operations—before reaching out.",
+      "outreachPriority": "low",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "TPG official contact and office directory", "url": "https://www.tpg.com/contact-us" }
+      ]
+    },
+    {
+      "id": "vista-equity",
+      "category": "pe",
+      "rank": 7,
+      "name": "Vista Equity Partners",
+      "focus": "Enterprise software private equity, permanent capital and private credit",
+      "summary": "A specialist enterprise software investor with a large New York office on the 77th floor of 50 Hudson Yards.",
+      "scaleSignal": "More than $100 billion in assets under management focused on enterprise software and technology.",
+      "office": { "address": "50 Hudson Yards, 77th Floor, New York, NY 10001", "area": "Hudson Yards", "region": "Manhattan", "type": "Major regional office" },
+      "contact": { "email": null, "phone": "+1 212 804 9100", "form": "https://www.vistaequitypartners.com/contact/" },
+      "website": "https://www.vistaequitypartners.com/",
+      "meetingContext": "Strong thematic fit if the discussion involves enterprise software, AI, portfolio operations or technology-company growth.",
+      "outreachPriority": "medium",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Vista official contact and offices", "url": "https://www.vistaequitypartners.com/contact/" },
+        { "label": "Vista firm overview", "url": "https://www.vistaequitypartners.com/" }
+      ]
+    },
+    {
+      "id": "insight-partners",
+      "category": "pe",
+      "rank": 8,
+      "name": "Insight Partners",
+      "focus": "Software growth equity, buyouts and ScaleUp investing",
+      "summary": "A New York-headquartered global software investor with an explicit investment-pitch option on its contact form.",
+      "scaleSignal": "More than $90 billion in regulatory assets under management and over 900 software investments.",
+      "office": { "address": "1114 Avenue of the Americas, 36th Floor, New York, NY 10036", "area": "Midtown", "region": "Manhattan", "type": "Global headquarters" },
+      "contact": { "email": "growth@insightpartners.com", "phone": "+1 212 230 9200", "form": "https://www.insightpartners.com/contact/" },
+      "website": "https://www.insightpartners.com/",
+      "meetingContext": "One of the more actionable investor targets for software: the contact form explicitly routes investment pitches.",
+      "outreachPriority": "high",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Insight Partners official contact page", "url": "https://www.insightpartners.com/contact/" },
+        { "label": "Insight Partners media and firm scale", "url": "https://www.insightpartners.com/about-us/media/" }
+      ]
+    },
+    {
+      "id": "warburg-pincus",
+      "category": "pe",
+      "rank": 9,
+      "name": "Warburg Pincus",
+      "focus": "Global growth investing and private equity",
+      "summary": "A New York-headquartered global growth investor with a public general-inquiries email and broad sector coverage.",
+      "scaleSignal": "Large global growth equity platform with a six-decade operating history.",
+      "office": { "address": "450 Lexington Avenue, New York, NY 10017", "area": "Midtown East", "region": "Manhattan", "type": "Global headquarters" },
+      "contact": { "email": "contact@warburgpincus.com", "phone": "+1 212 878 0600", "form": "https://warburgpincus.com/contact-us/" },
+      "website": "https://warburgpincus.com/",
+      "meetingContext": "The public general inbox is useful; state the sector, company stage, geography and requested outcome in the first paragraph.",
+      "outreachPriority": "medium",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Warburg Pincus official contact page", "url": "https://warburgpincus.com/contact-us/" }
+      ]
+    },
+    {
+      "id": "thoma-bravo",
+      "category": "pe",
+      "rank": 10,
+      "name": "Thoma Bravo",
+      "focus": "Software and technology private equity",
+      "summary": "A leading software buyout firm with a New York office in the Seagram Building and a structured contact form.",
+      "scaleSignal": "One of the largest technology-focused private equity platforms by recent capital raised.",
+      "office": { "address": "375 Park Avenue, Suite 3603, New York, NY 10022", "area": "Midtown East", "region": "Manhattan", "type": "Regional office" },
+      "contact": { "email": null, "phone": "+1 212 292 7070", "form": "https://www.thomabravo.com/contact" },
+      "website": "https://www.thomabravo.com/",
+      "meetingContext": "Strong fit only with a clear software, cybersecurity, infrastructure or portfolio value-creation angle.",
+      "outreachPriority": "medium",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Thoma Bravo official contact and office page", "url": "https://www.thomabravo.com/contact" }
+      ]
+    },
+    {
+      "id": "silver-lake",
+      "category": "pe",
+      "rank": 11,
+      "name": "Silver Lake",
+      "focus": "Large-scale technology investing and private equity",
+      "summary": "A global technology investment firm with a New York office at 55 Hudson Yards.",
+      "scaleSignal": "Large specialist technology investor with global large-cap transaction capabilities.",
+      "office": { "address": "55 Hudson Yards, 550 West 34th Street, 40th Floor, New York, NY 10001", "area": "Hudson Yards", "region": "Manhattan", "type": "Regional office" },
+      "contact": { "email": null, "phone": null, "form": "https://www.silverlake.com/connect/" },
+      "website": "https://www.silverlake.com/",
+      "meetingContext": "Use only a highly specific technology investment, portfolio, operating or strategic relationship angle.",
+      "outreachPriority": "low",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Silver Lake official offices and inquiry routes", "url": "https://www.silverlake.com/connect/" }
+      ]
+    },
+    {
+      "id": "general-atlantic",
+      "category": "pe",
+      "rank": 12,
+      "name": "General Atlantic",
+      "focus": "Global growth equity, climate, credit and technology investing",
+      "summary": "A New York-headquartered growth investor with a large team at Park Avenue Plaza and a broad global footprint.",
+      "scaleSignal": "Large global growth investment platform with more than four decades of operating history.",
+      "office": { "address": "Park Avenue Plaza, 55 East 52nd Street, 33rd Floor, New York, NY 10055", "area": "Midtown East", "region": "Manhattan", "type": "Global headquarters" },
+      "contact": { "email": null, "phone": "+1 212 715 4000", "form": "https://www.generalatlantic.com/contact/" },
+      "website": "https://www.generalatlantic.com/",
+      "meetingContext": "Best for a growth-company, technology, consumer, healthcare, financial-services or climate investment conversation.",
+      "outreachPriority": "medium",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "General Atlantic official contact page", "url": "https://www.generalatlantic.com/contact/" }
+      ]
+    },
+    {
+      "id": "cdr",
+      "category": "pe",
+      "rank": 13,
+      "name": "Clayton, Dubilier & Rice",
+      "focus": "Control private equity and operational business building",
+      "summary": "A longstanding private equity firm focused on business transformation, now based at 550 Madison Avenue.",
+      "scaleSignal": "Major global buyout manager with a long operating-partner tradition and large recent funds.",
+      "office": { "address": "550 Madison Avenue, New York, NY 10022", "area": "Midtown East", "region": "Manhattan", "type": "New York headquarters" },
+      "contact": { "email": null, "phone": "+1 212 407 5200", "form": "https://www.cdr.com/contact/" },
+      "website": "https://www.cdr.com/",
+      "meetingContext": "A relevant operating, industrial, healthcare, consumer, services or portfolio-company value-creation thesis is essential.",
+      "outreachPriority": "low",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "CD&R official contact page", "url": "https://www.cdr.com/contact/" }
+      ]
+    },
+    {
+      "id": "new-mountain",
+      "category": "pe",
+      "rank": 14,
+      "name": "New Mountain Capital",
+      "focus": "Defensive-growth private equity, credit and net lease",
+      "summary": "A New York-headquartered investment firm focused on business building in defensive-growth industries.",
+      "scaleSignal": "Approximately $60 billion in assets under management across private equity, credit and net lease.",
+      "office": { "address": "1633 Broadway, 48th Floor, New York, NY 10019", "area": "Midtown", "region": "Manhattan", "type": "Global headquarters" },
+      "contact": { "email": null, "phone": "+1 212 720 0300", "form": "https://www.newmountaincapital.com/contact/" },
+      "website": "https://www.newmountaincapital.com/",
+      "meetingContext": "Good fit for healthcare, software, data, business services or other defensive-growth sectors with a concrete value-creation thesis.",
+      "outreachPriority": "medium",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "New Mountain Capital official contact page", "url": "https://www.newmountaincapital.com/contact/" },
+        { "label": "New Mountain firm overview and scale", "url": "https://www.newmountaincapital.com/about-us/" }
+      ]
+    },
+    {
+      "id": "cerberus",
+      "category": "pe",
+      "rank": 15,
+      "name": "Cerberus Capital Management",
+      "focus": "Private equity, credit and real estate investing",
+      "summary": "A New York-headquartered global alternative investment firm with multiple operating units at 875 Third Avenue.",
+      "scaleSignal": "Large multi-strategy private investment platform with a global office network.",
+      "office": { "address": "875 Third Avenue, 10th Floor, New York, NY 10022", "area": "Midtown East", "region": "Manhattan", "type": "Global headquarters" },
+      "contact": { "email": null, "phone": "+1 212 891 2100", "form": "https://www.cerberus.com/contact/" },
+      "website": "https://www.cerberus.com/",
+      "meetingContext": "The official page separates investor, media and general inquiries; use the general route with a precise investment or operating rationale.",
+      "outreachPriority": "low",
+      "status": "verified",
+      "verifiedAt": "2026-10-13",
+      "sources": [
+        { "label": "Cerberus official contact page", "url": "https://www.cerberus.com/contact/" },
+        { "label": "Cerberus official locations", "url": "https://www.cerberus.com/our-firm/locations/" }
+      ]
+    }
+  ]
+}

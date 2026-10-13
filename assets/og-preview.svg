@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1d18"/><stop offset="1" stop-color="#194033"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="20" flood-opacity=".3"/></filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1065" cy="60" r="280" fill="#c8ff58" opacity=".07"/>
+  <path d="M930-40c-52 145 5 216-58 327-49 87-147 145-159 293" fill="none" stroke="#79a6ff" stroke-width="62" opacity=".32"/>
+  <path d="M856 38c43 45 36 112 2 186-39 84-97 157-111 245-7 43-1 83-15 129-44-61-51-131-45-200 8-94 44-150 104-226 29-37 42-92 65-134Z" fill="#f4f0e8" opacity=".09" stroke="#f4f0e8" stroke-opacity=".28"/>
+  <g fill="#c8ff58" stroke="#10231d" stroke-width="8" filter="url(#shadow)"><circle cx="788" cy="206" r="14"/><circle cx="758" cy="302" r="14"/><circle cx="729" cy="408" r="14"/><circle cx="833" cy="491" r="14"/></g>
+  <g transform="translate(72 66)">
+    <circle cx="30" cy="30" r="30" fill="#c8ff58"/><text x="30" y="36" text-anchor="middle" font-family="Arial" font-size="17" font-weight="700" fill="#10231d">P11</text>
+    <text x="82" y="36" font-family="Arial" font-size="20" font-weight="700" letter-spacing="4" fill="#fffdf8">NYC OUTREACH</text>
+  </g>
+  <text x="72" y="230" font-family="Arial" font-size="18" font-weight="700" letter-spacing="4" fill="#c8ff58">NEW YORK METRO · FIELD GUIDE</text>
+  <text x="72" y="320" font-family="Georgia" font-size="78" fill="#fffdf8">Business Outreach</text>
+  <text x="72" y="402" font-family="Georgia" font-size="78" font-style="italic" fill="#c8ff58">Directory</text>
+  <text x="76" y="473" font-family="Arial" font-size="23" fill="#c7d2ce">45 source-checked firms · 3 sectors · local offices</text>
+  <g transform="translate(76 524)" font-family="Arial" font-size="14" font-weight="700" letter-spacing="1.5">
+    <rect width="148" height="42" rx="21" fill="#d9e5ff"/><text x="74" y="26" text-anchor="middle" fill="#10231d">SOFTWARE</text>
+    <rect x="160" width="210" height="42" rx="21" fill="#ffe0d4"/><text x="265" y="26" text-anchor="middle" fill="#10231d">BRAND + MARKETING</text>
+    <rect x="382" width="174" height="42" rx="21" fill="#e2f5b9"/><text x="469" y="26" text-anchor="middle" fill="#10231d">PRIVATE EQUITY</text>
+  </g>
+</svg>
+
